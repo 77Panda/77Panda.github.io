@@ -11143,7 +11143,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/bg-signup.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/headshot.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11200,4 +11200,8 @@ body {
 
 .footer {
   padding: 5rem 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3958669e5d4e03a337e51b8f0573a0c1fa6b339c
